@@ -9,6 +9,3 @@ Repositorio para el trabajo práctico integrador de la materia Desarrollo de Sof
 |Iturburu Ignacio|46100|
 |Ortigosa Brian|47350|
 |Zapata Mayra|42969|
-
-### Modelo
-![imagen del modelo]()
