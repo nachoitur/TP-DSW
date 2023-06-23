@@ -30,7 +30,7 @@ Regularidad:
 |CUU/Epic|1. Realizar una compra<br>2. Publicar un libro para la venta|
 
 
-Adicionales para Aprobación
+Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Rol<br>2. CRUD Género<br>3. CRUD Autor<br>4. CRUD Libro<br>5. CRUD Usuario<br>6. CRUD Editorial<br>7. CRUD Compra|
