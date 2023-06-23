@@ -15,4 +15,4 @@ Repositorio para el trabajo práctico integrador de la materia Desarrollo de Sof
 Nuestra plataforma en línea es un mercado virtual de compra y venta de libros. Con interfaz y funciones de búsqueda para libros, los cuales se identificarán con un nombre y un género.
 
 ### Modelo
-![modelo](https://drive.google.com/file/d/1x6fMauTsNL6937k08hK5nLn87r7Zn4Vt/view?usp=drive_link)
+![modelo](https://ibb.co/rk2DNDZ)
